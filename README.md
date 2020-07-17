@@ -11,7 +11,7 @@ I have 5 years of experience developing native iOS applications / 1 year in Java
 - 👯 I’m looking to collaborate on ... YOU! Yes, if you have a work opportunity, please contact me!
 - 🤔 I’m looking for help with ... Job Opportunity!
 - 💬 Ask me about ... iOS Development, Build iOS Frameworks
-- 📫 How to reach me: ... [Jipeng Gao's LinkedIn (English)](https://www.linkedin.com/in/jipeng-gao/?locale=en_US) / [(Chinese)](https://www.linkedin.com/in/jipeng-gao/)  OR  [Jipeng Gao's Gmail](mailto:jipeng.gao.job@gmail.com?subject=[GitHub]%20Hi!%20Jipeng%20Gao)
+- 📫 How to reach me: ... [Jipeng Gao's LinkedIn (English)](https://www.linkedin.com/in/jipeng-gao/?locale=en_US) / [(Chinese)](https://www.linkedin.com/in/jipeng-gao/) &nbsp; &nbsp; OR &nbsp; &nbsp; [Jipeng Gao's Gmail](mailto:jipeng.gao.job@gmail.com?subject=[GitHub]%20Hi!%20Jipeng%20Gao)
 - 😄 Pronouns: ... He/Him
 <!--
 - ⚡ Fun fact: ...
