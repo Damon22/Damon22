@@ -4,7 +4,7 @@
 **Damon22/Damon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-I am an iOS Engineer with over 5 years of experience using Objective-C to develop native iOS applications in many domains such as education and e-commerce. I am currently pursuing a master’s degree in Computer Science.
+I have 5 years of experience developing native iOS applications / 1 year in Java Web. I am currently pursuing a master’s degree in Computer Science.
 
 - 🔭 I’m currently working on ... finding a job ...
 - 🌱 I’m currently learning ... Big Data Technology, SwiftUI
