@@ -12,7 +12,7 @@ I have 5 years of experience developing <ins>**native iOS applications**</ins> /
 - 🤔 I’m looking for help with ... Job Opportunity!
 - 💬 Ask me about ... iOS Development, Build iOS Frameworks
 - 📫 How to reach me: ... [<span style="color:; font-size:small">Jipeng Gao's **LinkedIn**</span> <span style="color: #28a745;">(English)</span>](https://www.linkedin.com/in/jipeng-gao/?locale=en_US) / [<span style="color: #28a745;">(Chinese)</span>](https://www.linkedin.com/in/jipeng-gao/) &nbsp; or &nbsp; [<span style="color:; font-size:small">Jipeng Gao's **Gmail**</span>](mailto:jipeng.gao.job@gmail.com?subject=[GitHub]%20Hi!%20Jipeng%20Gao)
-- 😄 Pronouns: ... +He / Him+
+- 😄 Pronouns: ... +(He / Him)+
 <!--
 - ⚡ Fun fact: ...
 -->
