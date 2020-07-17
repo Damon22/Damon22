@@ -5,8 +5,9 @@
 **Damon22/Damon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+```css
 I have 5 years of experience developing <ins>**native iOS applications**</ins> / 1 year in <ins>**Java Web**</ins>. I am currently pursuing a master’s degree in Computer Science.
-
+```
 - 🔭 I’m currently working on ... <span style="background-color:#fff5b1">finding a job</span> ...
 - 🌱 I’m currently learning ... Big Data Technology, SwiftUI
 - 👯 I’m looking to collaborate with ... **<span style="color:blue;">YOU!</span>** Yes, if you have a work opportunity, please contact me!
@@ -17,5 +18,3 @@ I have 5 years of experience developing <ins>**native iOS applications**</ins> /
 <!--
 - ⚡ Fun fact: ...
 -->
-
-![content](https://via.placeholder.com/15/f03c15/000000?text=+) 
